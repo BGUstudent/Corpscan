@@ -1,0 +1,41 @@
+#menu ul {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+    text-align:center;
+    
+    }
+   #menu li {
+    float: left;
+    margin:auto;
+    padding:0px;
+    background-color:rgb(182, 177, 177);
+    border-radius: 30px;
+    box-shadow: 8px 8px 12px #aaa;
+    
+    }
+   #menu li a {
+    display:block;
+    width:150px;
+    color:white;
+    text-decoration:none;
+    padding:5px;
+    }
+   #menu li a:hover {
+    color:white;
+    background-color: rgb(39, 38, 38);
+    border-radius: 30px;
+    }
+    #menu ul li ul {
+    display:none;
+        }
+    #menu ul li:hover ul {
+    display:block;
+            }
+    #menu li:hover ul li {
+    float:none;
+            }
+    #menu li ul {
+    position:absolute;
+                }
+               
