@@ -1,6 +1,6 @@
 # Corpscan
 
-This is my to contribution Corpscan projet.
+This is my contribution to Corpscan projet.
 I had to implement some back-end features.
 Warning :  This was before I discover OOP
 
