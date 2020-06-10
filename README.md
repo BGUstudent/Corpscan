@@ -7,7 +7,7 @@ Warning :  This was before I discover OOP
 Features :
 - A Home/login page request a DB (Index.php)
 - Different paths according to the users accreditation (Index.php)
-- A "forgetten password" feature sending a new password to the user email and changing it in the DB (Forgotten_Password.php)
+- A "forgotten password" feature sending a new password to the user email and changing it in the DB (Forgotten_Password.php)
 - Every page can be translated using a simple button (translate.php + headers)
 
 Admin features :
